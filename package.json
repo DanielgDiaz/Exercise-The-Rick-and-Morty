@@ -1,0 +1,17 @@
+{
+  "name": "ex-promises-js",
+  "version": "1.0.0",
+  "description": "## Requierement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server",
+    "json-serve-w": "json-server --watch data.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
